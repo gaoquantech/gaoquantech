@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Gaoquan Tech Logo</title>
+  <desc id="desc">A circular premium logo with a stylized G and Q.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0ddb2"/>
+      <stop offset="100%" stop-color="#b38f54"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="54" fill="none" stroke="url(#gold)" stroke-width="6"/>
+  <path d="M82 64c-2 13-13 23-27 23-16 0-29-13-29-29s13-29 29-29c10 0 19 5 24 13" fill="none" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M73 71l16 16" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+</svg>
